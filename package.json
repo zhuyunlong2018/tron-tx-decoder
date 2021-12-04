@@ -24,10 +24,11 @@
     "ethers.js",
     "trx",
     "raw",
-    "tx"],  
+    "tx"
+  ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/meetsiraja/tron-tx-decoder.git"
+    "type": "git",
+    "url": "https://github.com/meetsiraja/tron-tx-decoder.git"
   },
   "bugs": {
     "url": "https://github.com/meetsiraja/tron-tx-decoder/issues"
